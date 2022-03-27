@@ -1,4 +1,3 @@
-CREATE database mp6;
 USE mp6;
 CREATE TABLE superhero (
   id INT UNSIGNED AUTO_INCREMENT,
